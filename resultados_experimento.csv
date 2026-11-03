@@ -1,0 +1,121 @@
+run_id,config,pregunta,exito,latencia_s,costo_usd,cobertura,fidelidad,claridad,calidad,llamadas,tokens,pct_coordinacion,pct_repetidas
+445d0ba3,A · agente único,¿Qué opción de expansión conviene más si la junta exige recuperar la inversión en menos de 24 meses?,True,3.5573438920000626,0.00021189,1.0,5,5,1.0,2,1584,0.0,0.0
+dd16bbd4,A · agente único,¿Qué opción de expansión conviene más si la junta exige recuperar la inversión en menos de 24 meses?,True,4.919974507000006,0.00032130000000000006,0.75,4,5,0.787,3,2976,0.0,37.5
+15f17ef7,A · agente único,¿Qué opción de expansión conviene más si la junta exige recuperar la inversión en menos de 24 meses?,True,4.038544677000573,0.00025939,1.0,4,5,0.938,2,1679,0.0,0.0
+170f5007,A · agente único,¿Qué canal de venta crece más y cuál deja mejor margen?,True,2.9296143000001393,0.00021670499999999998,1.0,4,5,0.938,2,1821,0.0,33.3
+e60f4711,A · agente único,¿Qué canal de venta crece más y cuál deja mejor margen?,True,5.216202193999379,0.00022538499999999998,1.0,4,4,0.9,2,1823,0.0,33.3
+f9bce238,A · agente único,¿Qué canal de venta crece más y cuál deja mejor margen?,True,3.785636785999486,0.00020838499999999998,1.0,4,5,0.938,2,1789,0.0,33.3
+eca5ff59,A · agente único,¿La capacidad de la planta alcanza para la exportación a Chile?,True,1.9205505119998634,0.00021530600000000002,1.0,3,4,0.837,2,1637,0.0,25.0
+cc46ed01,A · agente único,¿La capacidad de la planta alcanza para la exportación a Chile?,True,1.9537575389995254,0.00023289600000000001,0.75,4,5,0.787,2,1674,0.0,25.0
+2fa507a5,A · agente único,¿La capacidad de la planta alcanza para la exportación a Chile?,True,2.252674954000213,0.000233896,0.75,4,4,0.75,2,1676,0.0,25.0
+d99a62ac,A · agente único,¿Qué riesgos financieros y operativos enfrenta la empresa?,True,1.9793768600002295,0.000246126,1.0,5,5,1.0,2,1604,0.0,0.0
+3d38b38d,A · agente único,¿Qué riesgos financieros y operativos enfrenta la empresa?,True,2.3135248850003336,0.000290316,1.0,5,5,1.0,2,1858,0.0,0.0
+e61e3451,A · agente único,¿Qué riesgos financieros y operativos enfrenta la empresa?,True,3.525397608000276,0.000326259,1.0,5,5,1.0,3,2817,0.0,42.9
+4bf13856,A · agente único,¿Hay evidencia de demanda para un modelo de suscripción?,True,2.26111537900033,0.000223716,1.0,4,5,0.938,2,1743,0.0,20.0
+d32c1f49,A · agente único,¿Hay evidencia de demanda para un modelo de suscripción?,True,2.581120675999955,0.00022644,1.0,5,5,1.0,2,1740,0.0,20.0
+295500a4,A · agente único,¿Hay evidencia de demanda para un modelo de suscripción?,True,2.1817896630000178,0.000216216,1.0,5,5,1.0,2,1728,0.0,20.0
+475a5c35,A · agente único,¿Puede la empresa financiar la segunda tienda sin crédito?,True,3.4012577959992996,0.000262683,1.0,4,5,0.938,2,1777,0.0,16.7
+4ae165f5,A · agente único,¿Puede la empresa financiar la segunda tienda sin crédito?,True,4.121277496999937,0.0002827,1.0,4,5,0.938,2,1769,0.0,16.7
+b4278214,A · agente único,¿Puede la empresa financiar la segunda tienda sin crédito?,True,4.220622271000138,0.000254723,0.6666666666666666,4,5,0.737,2,1784,0.0,16.7
+bb858f7a,A · agente único,¿Cómo afecta el precio del café verde la rentabilidad del canal B2B?,True,2.040534105000006,0.00041419600000000003,1.0,3,4,0.837,2,1902,0.0,33.3
+c9edc0d9,A · agente único,¿Cómo afecta el precio del café verde la rentabilidad del canal B2B?,True,2.366171122999731,0.000432256,1.0,5,5,1.0,2,1922,0.0,33.3
+0314b644,A · agente único,¿Cómo afecta el precio del café verde la rentabilidad del canal B2B?,True,1.8963103050000427,0.00042930999999999997,1.0,4,5,0.938,2,1881,0.0,16.7
+daeeb4d3,A · agente único,¿Qué debería mejorar primero en domicilios antes de lanzar una tienda online?,True,2.1623209870003848,0.000243156,0.3333333333333333,3,4,0.437,2,1902,0.0,33.3
+10dad03a,A · agente único,¿Qué debería mejorar primero en domicilios antes de lanzar una tienda online?,True,2.5769978010002887,0.000318349,0.6666666666666666,4,5,0.737,3,3697,0.0,50.0
+d17e8903,A · agente único,¿Qué debería mejorar primero en domicilios antes de lanzar una tienda online?,True,2.5329865810008414,0.00032185899999999997,0.3333333333333333,3,5,0.475,3,3593,0.0,45.5
+b255cbd8,B · multiagente barato,¿Qué opción de expansión conviene más si la junta exige recuperar la inversión en menos de 24 meses?,True,7.2807352629997695,0.0021494398,1.0,4,5,0.938,9,8231,19.1,62.5
+bdfd5deb,B · multiagente barato,¿Qué opción de expansión conviene más si la junta exige recuperar la inversión en menos de 24 meses?,True,10.103379602000132,0.00111755092,1.0,4,5,0.938,9,8633,16.7,46.7
+59522e0a,B · multiagente barato,¿Qué opción de expansión conviene más si la junta exige recuperar la inversión en menos de 24 meses?,True,12.406003742000394,0.001867474,1.0,4,5,0.938,10,10004,8.8,66.7
+f74a06cc,B · multiagente barato,¿Qué canal de venta crece más y cuál deja mejor margen?,True,12.008528968999599,0.0012478165999999999,1.0,4,4,0.9,9,8926,12.9,78.3
+a098670b,B · multiagente barato,¿Qué canal de venta crece más y cuál deja mejor margen?,True,15.70945916599976,0.0012959210000000002,1.0,4,4,0.9,9,9139,28.4,79.2
+443d9018,B · multiagente barato,¿Qué canal de venta crece más y cuál deja mejor margen?,True,16.463917830000355,0.0011204151999999999,1.0,4,4,0.9,9,9481,13.3,77.8
+ab2f6013,B · multiagente barato,¿La capacidad de la planta alcanza para la exportación a Chile?,True,11.180198174999532,0.001433131,0.75,4,4,0.75,10,9577,11.7,71.4
+4513b395,B · multiagente barato,¿La capacidad de la planta alcanza para la exportación a Chile?,True,9.080833895000069,0.0014257179999999999,0.75,4,4,0.75,9,7268,10.2,50.0
+1f90955d,B · multiagente barato,¿La capacidad de la planta alcanza para la exportación a Chile?,True,7.308668179000051,0.001455297,1.0,4,4,0.9,9,7517,27.0,46.2
+c525c7bb,B · multiagente barato,¿Qué riesgos financieros y operativos enfrenta la empresa?,True,10.726161044999571,0.00134981292,1.0,5,5,1.0,9,9107,28.3,61.9
+ddb5bf90,B · multiagente barato,¿Qué riesgos financieros y operativos enfrenta la empresa?,True,13.151542966000306,0.0012488269599999998,0.6666666666666666,4,4,0.7,9,8727,14.8,55.6
+85d591c5,B · multiagente barato,¿Qué riesgos financieros y operativos enfrenta la empresa?,True,17.294772191999982,0.001598622,1.0,5,5,1.0,9,8920,29.2,61.1
+223e276b,B · multiagente barato,¿Hay evidencia de demanda para un modelo de suscripción?,True,11.413106115000119,0.0012826579999999999,1.0,5,5,1.0,9,9318,14.1,69.2
+c18ec5d3,B · multiagente barato,¿Hay evidencia de demanda para un modelo de suscripción?,True,12.14192550200005,0.001353597,1.0,5,5,1.0,9,8450,25.9,65.0
+edb4920c,B · multiagente barato,¿Hay evidencia de demanda para un modelo de suscripción?,True,8.824327561000246,0.0016008208,1.0,5,5,1.0,10,9861,13.0,75.0
+8c417a24,B · multiagente barato,¿Puede la empresa financiar la segunda tienda sin crédito?,True,17.409452418,0.0013641410000000001,1.0,4,4,0.9,9,8971,35.4,71.4
+ded942bd,B · multiagente barato,¿Puede la empresa financiar la segunda tienda sin crédito?,True,26.926473630000146,0.0012454255999999999,1.0,4,4,0.9,11,11677,12.1,66.7
+89cb1010,B · multiagente barato,¿Puede la empresa financiar la segunda tienda sin crédito?,True,13.513467302999743,0.001813991,1.0,4,4,0.9,10,9931,9.9,57.9
+82850cc5,B · multiagente barato,¿Cómo afecta el precio del café verde la rentabilidad del canal B2B?,True,10.493474740000238,0.0012036429999999997,1.0,4,5,0.938,9,8521,10.8,85.7
+901af385,B · multiagente barato,¿Cómo afecta el precio del café verde la rentabilidad del canal B2B?,True,14.721372181000334,0.0018546,1.0,4,4,0.9,10,10049,26.6,79.2
+a25114e7,B · multiagente barato,¿Cómo afecta el precio del café verde la rentabilidad del canal B2B?,True,13.432832233999761,0.001238836,1.0,4,4,0.9,9,8012,11.4,77.8
+1f4b5b76,B · multiagente barato,¿Qué debería mejorar primero en domicilios antes de lanzar una tienda online?,True,8.08711717299957,0.002197835,1.0,4,5,0.938,9,9165,8.4,69.6
+fc9b2534,B · multiagente barato,¿Qué debería mejorar primero en domicilios antes de lanzar una tienda online?,True,8.652344310999979,0.0016851540000000001,0.6666666666666666,4,5,0.737,9,10199,23.1,81.2
+d45e9985,B · multiagente barato,¿Qué debería mejorar primero en domicilios antes de lanzar una tienda online?,True,19.849163427999883,0.0012735912,0.6666666666666666,4,5,0.737,10,9975,13.5,73.9
+1c721d74,C · multiagente mixto,¿Qué opción de expansión conviene más si la junta exige recuperar la inversión en menos de 24 meses?,True,12.671745310000006,0.0035136556,1.0,3,4,0.837,9,8082,43.2,53.3
+68c62141,C · multiagente mixto,¿Qué opción de expansión conviene más si la junta exige recuperar la inversión en menos de 24 meses?,True,16.06728757900055,0.004439744,1.0,4,5,0.938,10,10602,39.5,59.1
+2fa10637,C · multiagente mixto,¿Qué opción de expansión conviene más si la junta exige recuperar la inversión en menos de 24 meses?,True,21.24952521600062,0.0044254766000000004,1.0,4,5,0.938,9,8746,38.1,62.5
+3a33ef34,C · multiagente mixto,¿Qué canal de venta crece más y cuál deja mejor margen?,True,17.237847266000244,0.00302059001,1.0,3,4,0.837,9,8799,46.8,83.3
+9b7c2662,C · multiagente mixto,¿Qué canal de venta crece más y cuál deja mejor margen?,True,15.486740677000853,0.0036071893,1.0,4,5,0.938,9,8845,38.8,75.0
+6b6952c7,C · multiagente mixto,¿Qué canal de venta crece más y cuál deja mejor margen?,True,44.285958217999905,0.0052345842100000005,1.0,4,5,0.938,9,8150,52.3,72.2
+9942f304,C · multiagente mixto,¿La capacidad de la planta alcanza para la exportación a Chile?,True,14.204285080000773,0.00469627,0.75,3,4,0.688,9,7139,47.2,66.7
+9e066450,C · multiagente mixto,¿La capacidad de la planta alcanza para la exportación a Chile?,True,13.285376398000153,0.0025952188,1.0,3,4,0.837,9,7445,22.1,66.7
+0636ddfb,C · multiagente mixto,¿La capacidad de la planta alcanza para la exportación a Chile?,True,27.26646877100029,0.005581383640000001,0.75,4,4,0.75,11,10244,45.9,61.5
+579dd1ba,C · multiagente mixto,¿Qué riesgos financieros y operativos enfrenta la empresa?,True,25.338331352999376,0.013232109,0.0,1,4,0.112,12,14406,29.0,50.0
+cfa7af19,C · multiagente mixto,¿Qué riesgos financieros y operativos enfrenta la empresa?,True,17.78870836799979,0.004782355,0.3333333333333333,2,4,0.375,10,9902,38.5,55.6
+b0db20a6,C · multiagente mixto,¿Qué riesgos financieros y operativos enfrenta la empresa?,True,16.075714456999776,0.0045837863999999996,0.3333333333333333,2,4,0.375,10,10375,42.7,55.6
+ffde02d8,C · multiagente mixto,¿Hay evidencia de demanda para un modelo de suscripción?,True,11.584616559999631,0.0031058837999999997,1.0,4,5,0.938,10,8884,45.0,64.7
+13fe7776,C · multiagente mixto,¿Hay evidencia de demanda para un modelo de suscripción?,True,16.31685776699942,0.0038685372,1.0,4,5,0.938,10,10257,37.6,69.2
+60785bae,C · multiagente mixto,¿Hay evidencia de demanda para un modelo de suscripción?,True,14.51137578900034,0.004902536,1.0,4,5,0.938,10,9951,30.6,69.6
+5db4e113,C · multiagente mixto,¿Puede la empresa financiar la segunda tienda sin crédito?,True,14.522749730000214,0.0034681081600000004,0.6666666666666666,4,5,0.737,9,8115,41.0,55.6
+0c510518,C · multiagente mixto,¿Puede la empresa financiar la segunda tienda sin crédito?,True,14.390478063000046,0.00379339839,0.6666666666666666,3,4,0.637,9,7102,54.3,58.3
+2b3611f6,C · multiagente mixto,¿Puede la empresa financiar la segunda tienda sin crédito?,True,13.628008619999491,0.00365597692,1.0,4,5,0.938,9,7909,36.6,66.7
+aa16c645,C · multiagente mixto,¿Cómo afecta el precio del café verde la rentabilidad del canal B2B?,True,27.00078294800005,0.006492417,1.0,4,5,0.938,11,11895,50.7,81.0
+3ded3041,C · multiagente mixto,¿Cómo afecta el precio del café verde la rentabilidad del canal B2B?,True,21.05319581099957,0.005162551400000001,1.0,3,4,0.837,9,8218,32.6,78.9
+a92ffbc9,C · multiagente mixto,¿Cómo afecta el precio del café verde la rentabilidad del canal B2B?,True,16.593301946999418,0.00421295266,1.0,4,5,0.938,9,8050,64.2,77.8
+b0dd66ab,C · multiagente mixto,¿Qué debería mejorar primero en domicilios antes de lanzar una tienda online?,True,15.845122056000037,0.00428873584,0.3333333333333333,2,4,0.375,10,9556,39.9,71.4
+ed82adb2,C · multiagente mixto,¿Qué debería mejorar primero en domicilios antes de lanzar una tienda online?,True,22.07788683600029,0.00404088796,0.3333333333333333,2,4,0.375,10,9804,50.1,72.2
+02319258,C · multiagente mixto,¿Qué debería mejorar primero en domicilios antes de lanzar una tienda online?,True,20.015052470000228,0.0052088985,0.6666666666666666,3,4,0.637,9,8599,35.5,73.7
+fa74792b,D · multiagente optimizado,¿Qué opción de expansión conviene más si la junta exige recuperar la inversión en menos de 24 meses?,True,10.625034912999581,0.001063748,1.0,4,5,0.938,7,5977,16.9,41.7
+cc09a2d0,D · multiagente optimizado,¿Qué opción de expansión conviene más si la junta exige recuperar la inversión en menos de 24 meses?,True,11.98843510000006,0.0009125489999999999,1.0,4,5,0.938,8,7664,21.9,50.0
+bf9e9210,D · multiagente optimizado,¿Qué opción de expansión conviene más si la junta exige recuperar la inversión en menos de 24 meses?,True,15.569770973999766,0.0010098159999999998,1.0,4,5,0.938,7,6336,23.0,50.0
+5ae7fac8,D · multiagente optimizado,¿Qué canal de venta crece más y cuál deja mejor margen?,True,13.814602974999616,0.000845422,1.0,4,5,0.938,7,5386,24.7,58.3
+6c99362d,D · multiagente optimizado,¿Qué canal de venta crece más y cuál deja mejor margen?,True,7.113146257000153,0.000860047,1.0,5,5,1.0,7,5246,22.9,66.7
+4fe4ab6b,D · multiagente optimizado,¿Qué canal de venta crece más y cuál deja mejor margen?,True,4.899903691999498,0.000932457,1.0,4,5,0.938,7,5316,23.0,66.7
+1b28f13a,D · multiagente optimizado,¿La capacidad de la planta alcanza para la exportación a Chile?,True,4.760851891999664,0.0007528579999999999,1.0,4,4,0.9,7,5142,18.2,55.6
+03068fe5,D · multiagente optimizado,¿La capacidad de la planta alcanza para la exportación a Chile?,True,18.37135564500022,0.000998964,1.0,3,4,0.837,7,5484,35.1,72.7
+bf103d49,D · multiagente optimizado,¿La capacidad de la planta alcanza para la exportación a Chile?,True,7.313789484999688,0.0011126270000000001,0.75,4,4,0.75,7,5870,11.8,64.3
+380998a0,D · multiagente optimizado,¿Qué riesgos financieros y operativos enfrenta la empresa?,True,16.563860664999993,0.0012400059999999999,1.0,5,5,1.0,7,5541,10.5,50.0
+171b28ec,D · multiagente optimizado,¿Qué riesgos financieros y operativos enfrenta la empresa?,True,13.69635600499987,0.001648857,1.0,5,5,1.0,8,6870,8.6,45.5
+7ea602b8,D · multiagente optimizado,¿Qué riesgos financieros y operativos enfrenta la empresa?,True,6.2255588690004515,0.000833867,0.6666666666666666,4,4,0.7,8,6791,16.7,41.7
+097f5633,D · multiagente optimizado,¿Hay evidencia de demanda para un modelo de suscripción?,True,6.7596147149997705,0.001322716,1.0,5,5,1.0,8,6815,8.2,60.0
+12c3fd09,D · multiagente optimizado,¿Hay evidencia de demanda para un modelo de suscripción?,True,7.092173871999876,0.000953154,1.0,4,5,0.938,7,5614,36.8,57.1
+6bc903e5,D · multiagente optimizado,¿Hay evidencia de demanda para un modelo de suscripción?,True,6.444244362000063,0.000905475,0.6666666666666666,4,5,0.737,7,6562,25.8,65.0
+459bd329,D · multiagente optimizado,¿Puede la empresa financiar la segunda tienda sin crédito?,True,8.15082310300022,0.0012036479999999999,0.6666666666666666,3,4,0.637,8,7123,9.8,58.8
+48206fdd,D · multiagente optimizado,¿Puede la empresa financiar la segunda tienda sin crédito?,True,5.456393841000136,0.00096605,1.0,4,4,0.9,8,6831,22.4,50.0
+151af052,D · multiagente optimizado,¿Puede la empresa financiar la segunda tienda sin crédito?,True,9.64662849600063,0.000750184,0.6666666666666666,3,4,0.637,7,5503,20.6,40.0
+5612531b,D · multiagente optimizado,¿Cómo afecta el precio del café verde la rentabilidad del canal B2B?,True,4.864255331000095,0.0006490559999999999,1.0,5,5,1.0,7,5681,34.1,66.7
+ef9aa755,D · multiagente optimizado,¿Cómo afecta el precio del café verde la rentabilidad del canal B2B?,True,5.062301293000019,0.0011011390000000001,1.0,5,5,1.0,7,5246,29.0,75.0
+7cc4849a,D · multiagente optimizado,¿Cómo afecta el precio del café verde la rentabilidad del canal B2B?,True,3.528373332999763,0.001483922,1.0,4,5,0.938,7,5275,12.8,66.7
+9230cd04,D · multiagente optimizado,¿Qué debería mejorar primero en domicilios antes de lanzar una tienda online?,True,11.857148420000158,0.000898642,0.6666666666666666,4,5,0.737,7,7157,16.3,63.6
+0935bd8b,D · multiagente optimizado,¿Qué debería mejorar primero en domicilios antes de lanzar una tienda online?,True,9.985558079999464,0.0009473405,0.6666666666666666,3,4,0.637,8,7366,15.1,62.5
+7a6f8eb7,D · multiagente optimizado,¿Qué debería mejorar primero en domicilios antes de lanzar una tienda online?,True,9.330303414999435,0.001081761,0.6666666666666666,4,5,0.737,7,6669,38.9,66.7
+f43664cc,E · router,¿Qué opción de expansión conviene más si la junta exige recuperar la inversión en menos de 24 meses?,True,11.90098570400005,0.00120726,1.0,4,5,0.938,8,6325,44.6,30.8
+4175563c,E · router,¿Qué opción de expansión conviene más si la junta exige recuperar la inversión en menos de 24 meses?,True,12.906643819000237,0.0015225739999999998,1.0,4,5,0.938,9,8344,21.5,52.4
+06fcfef0,E · router,¿Qué opción de expansión conviene más si la junta exige recuperar la inversión en menos de 24 meses?,True,12.098150944999361,0.0017228039999999999,0.75,3,4,0.688,9,8230,25.2,52.6
+76e91b83,E · router,¿Qué canal de venta crece más y cuál deja mejor margen?,True,6.287815284999851,0.0011459445,1.0,5,5,1.0,8,5471,14.6,66.7
+3b0b9aac,E · router,¿Qué canal de venta crece más y cuál deja mejor margen?,True,6.61755076100053,0.000987468,1.0,4,4,0.9,8,5720,19.4,66.7
+adf20699,E · router,¿Qué canal de venta crece más y cuál deja mejor margen?,True,5.9925319670001045,0.000821462,1.0,5,5,1.0,8,5529,18.0,66.7
+37898db9,E · router,¿La capacidad de la planta alcanza para la exportación a Chile?,True,11.997206484000344,0.001248211,0.75,4,4,0.75,10,8347,29.5,56.2
+3d2016a7,E · router,¿La capacidad de la planta alcanza para la exportación a Chile?,True,7.487374576000548,0.0015339400000000001,1.0,2,4,0.775,8,5889,23.8,66.7
+15c103ba,E · router,¿La capacidad de la planta alcanza para la exportación a Chile?,True,14.294033614,0.0011758060000000002,1.0,4,4,0.9,9,6818,10.4,50.0
+5225c53d,E · router,¿Qué riesgos financieros y operativos enfrenta la empresa?,True,7.693185837000783,0.001284557,1.0,5,5,1.0,8,5415,11.6,37.5
+1754278b,E · router,¿Qué riesgos financieros y operativos enfrenta la empresa?,True,31.675610985000276,0.001915891,1.0,4,5,0.938,9,7442,14.0,50.0
+e6fb6aa2,E · router,¿Qué riesgos financieros y operativos enfrenta la empresa?,True,11.655501680999805,0.0015029979999999997,1.0,4,4,0.9,9,7327,20.6,50.0
+da835984,E · router,¿Hay evidencia de demanda para un modelo de suscripción?,True,11.48754107700006,0.001352077,1.0,4,5,0.938,8,5877,9.6,60.0
+65a5dcc2,E · router,¿Hay evidencia de demanda para un modelo de suscripción?,True,11.328486640999472,0.0007032620000000001,1.0,4,5,0.938,8,5913,20.2,60.0
+c6b4b66a,E · router,¿Hay evidencia de demanda para un modelo de suscripción?,True,10.883126676999382,0.0009603019999999999,1.0,4,5,0.938,8,5991,12.8,62.5
+4efd4177,E · router,¿Puede la empresa financiar la segunda tienda sin crédito?,True,6.292703824000455,0.00125062,0.6666666666666666,3,4,0.637,9,7090,12.2,46.7
+af5f4fda,E · router,¿Puede la empresa financiar la segunda tienda sin crédito?,True,5.807003647999409,0.001244035,1.0,4,4,0.9,9,7507,36.5,56.2
+0cdbef6d,E · router,¿Puede la empresa financiar la segunda tienda sin crédito?,True,8.096118768999986,0.000704268,1.0,4,4,0.9,8,5658,16.1,53.8
+339b4ba0,E · router,¿Cómo afecta el precio del café verde la rentabilidad del canal B2B?,True,6.577141149000454,0.001092847,1.0,3,4,0.837,8,5589,28.4,66.7
+4d52cf41,E · router,¿Cómo afecta el precio del café verde la rentabilidad del canal B2B?,True,6.21042860200032,0.001093337,1.0,4,5,0.938,8,5576,28.9,66.7
+ee0ef19f,E · router,¿Cómo afecta el precio del café verde la rentabilidad del canal B2B?,True,5.132912740999927,0.000741277,1.0,4,5,0.938,8,5493,34.3,66.7
+2c0257d8,E · router,¿Qué debería mejorar primero en domicilios antes de lanzar una tienda online?,True,10.182829720999507,0.0009642589999999999,1.0,4,5,0.938,8,6817,10.3,70.0
+93e4d408,E · router,¿Qué debería mejorar primero en domicilios antes de lanzar una tienda online?,True,6.580021325000416,0.000849262,0.3333333333333333,2,4,0.375,8,6149,14.6,68.8
+722aa42e,E · router,¿Qué debería mejorar primero en domicilios antes de lanzar una tienda online?,True,8.590211287000784,0.000910316,1.0,4,5,0.938,8,6490,14.2,72.2
